@@ -1,0 +1,1 @@
+import{_ as o,c as s,a as t,o as a}from"./index-CvfDpWTj.js";const n={},c={class:"container"};function r(d,e){return a(),s("main",c,e[0]||(e[0]=[t("h2",null,"Пока не реализован !!!",-1)]))}const i=o(n,[["render",r],["__scopeId","data-v-6d1db5ef"]]);export{i as default};
